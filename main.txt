@@ -6,4 +6,8 @@
 
 
 
+
 Git is a distributed version control system
+
+Git environment is to have a local repository and a remote repository
+
