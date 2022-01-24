@@ -6,3 +6,4 @@
 
 
 
+Git environment is to have a local repository and a remote repository
